@@ -1,0 +1,6 @@
+{
+  "name": "CleanAir Companion",
+  "description": "GenAI-powered personal and community assistant for navigating severe winter smog and urban air pollution with low-emission routines.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
